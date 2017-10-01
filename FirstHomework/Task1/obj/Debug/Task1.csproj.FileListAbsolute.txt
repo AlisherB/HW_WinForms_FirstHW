@@ -1,0 +1,10 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\bin\Debug\Task1.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\bin\Debug\Task1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\bin\Debug\Task1.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WinForms\HomeWorks\FirstHomework\Task1\obj\Debug\Task1.pdb
